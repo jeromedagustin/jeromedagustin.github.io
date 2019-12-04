@@ -1,8 +1,0 @@
-1. Drop the analysis_options.yaml file into the project root as stated in
-https://medium.com/flutter-community/watch-your-code-dart-flutter-lint-55a697d01c8d
-
-https://github.com/flutter/flutter/blob/master/analysis_options.yaml
-
-2. Before creating a plugin, check https://pub.dev/ to see if it already exists.
-Follow the rules stated in the package description in order to allow it to be
-used in the project.  
