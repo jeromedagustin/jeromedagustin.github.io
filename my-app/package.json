@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jeromedagustin.github.com/my-app/my-app",
+  "homepage": "https://jeromedagustin.github.com/my-app/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
